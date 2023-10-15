@@ -13,8 +13,8 @@
         </div>
         
         <div class="hidden lg:col-span-2 lg:grid lg:grid-cols-2 md:gap-6">
-            <a href="#" class="bg-green-500 text-stone-800 rounded-md text-center  py-2 px-2 grow-0 my-auto hover:font-bold">Book a Demo</a>
-            <a href="#" class="bg-stone-100 text-stone-800 rounded-md text-center  py-2 px-2 my-auto hover:font-bold">Login</a>
+            <a href="#" class="bg-green-500 text-stone-800 rounded-md text-center  py-2 px-2 grow-0 my-auto hover:bg-green-700">Book a Demo</a>
+            <a href="#" class="bg-stone-100 text-stone-800 rounded-md text-center  py-2 px-2 my-auto hover:bg-stone-300">Login</a>
         </div>
 
         <div class="md:hidden  dropdown dropdown-end col-start-3 mt-2 ">
